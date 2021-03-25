@@ -4,6 +4,9 @@
     "domain": [
       "geosite:category-ads-all",
       "geosite:win-spy",
+      "gacraft.jp",
+      "popin.cc",
+      "taboola.com.cn",
       "zebra.pushbullet.com"
     ]
   },
@@ -19,22 +22,34 @@
       "apk.support",
       "appmedia.jp",
       "assets.video.yahoo.net",
+      "axem1.youdbox.com",
+      "cdnjs.cloudflare.com",
       "cpubenchmark.net",
+      "ctmp.space",
       "cybersport.ru",
       "download.bitcomet.com",
+      "drop1.dropmefiles.com",
       "edgecast-cf-prod.yahoo.net",
+      "fs113.filecad.com",
+      "fs2.hxfile.co",
+      "fs2.videospeed.xyz",
+      "fs7.uploadev.org",
       "goo.ne.jp",
       "images-fe.ssl-images-amazon.com",
       "i.pximg.net",
+      "matrix.org",
       "m.media-amazon.com",
       "passmark.com",
+      "www.wwe.com",
       "s.yimg.com",
       "tlanyan.me",
       "userapi.com",
       "us.yahoo.com",
       "video-api.yql.yahoo.com",
       "vk.com",
-      "v2fly.org"
+      "v2fly.org",
+      "www1.dropbay.net",
+      "www.fnn.jp"
     ]
   },
   {
