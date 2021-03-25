@@ -15,13 +15,13 @@
     "domain": [
       "geosite:gfw",
       "api.mega.co.nz",
-      "apk.support",
       "apk.center",
+      "apk.support",
       "appmedia.jp",
       "assets.video.yahoo.net",
-      "download.bitcomet.com",
       "cpubenchmark.net",
       "cybersport.ru",
+      "download.bitcomet.com",
       "edgecast-cf-prod.yahoo.net",
       "goo.ne.jp",
       "images-fe.ssl-images-amazon.com",
@@ -32,9 +32,9 @@
       "tlanyan.me",
       "userapi.com",
       "us.yahoo.com",
-      "v2fly.org",
       "video-api.yql.yahoo.com",
-      "vk.com"
+      "vk.com",
+      "v2fly.org"
     ]
   },
   {
