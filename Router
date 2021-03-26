@@ -1,10 +1,21 @@
 [
   {
+    "outboundTag": "proxy",
+    "domain": [
+      "#Exception of geosite:category-ads-all",
+      "cdn.gotraffic.net"
+    ]
+  },
+  {
     "outboundTag": "block",
     "domain": [
       "#Default",
       "geosite:category-ads-all",
       "geosite:win-spy",
+      "#",
+      "#Yahoo",
+      "consent.cmp.oath.com",
+      "udc.yahoo.com",
       "#",
       "#Others",
       "gacraft.jp",
@@ -39,6 +50,7 @@
       "apk.support",
       "appmedia.jp",
       "download.bitcomet.com",
+      "bloomberg.co.jp",
       "edge.api.brightcove.com",
       "cdnjs.cloudflare.com",
       "cpubenchmark.net",
@@ -48,8 +60,8 @@
       "drop1.dropmefiles.com",
       "fs113.filecad.com",
       "www.fnn.jp",
+      "cdn.gotraffic.net",
       "fs2.hxfile.co",
-      "goo.ne.jp",
       "matrix.org",
       "api.mega.co.nz",
       "passmark.com",
