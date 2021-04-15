@@ -1,9 +1,17 @@
 [
   {
+    "type": "field",
     "outboundTag": "proxy",
     "domain": [
       "# Exception of geosite:category-ads-all",
       "cdn.gotraffic.net"
+    ]
+  },
+  {
+    "outboundTag": "direct",
+    "domain": [
+      "# Exception of geosite:category-ads-all",
+      "edge.activity.windows.com"
     ]
   },
   {
@@ -25,6 +33,7 @@
     ]
   },
   {
+    "port": "",
     "outboundTag": "proxy",
     "ip": [
       "geoip:telegram"
@@ -38,9 +47,18 @@
       "m.media-amazon.com",
       "images-fe.ssl-images-amazon.com",
       "#",
+      "# Mixcloud",
+      "#audiocdn4.mixcloud.com",
+      "#audio10.mixcloud.com",
+      "#stream10.mixcloud.com",
+      "stream5.mixcloud.com",
+      "thumbnailer.mixcloud.com",
+      "#ws2.mixcloud.com",
+      "#",
       "# Yahoo",
       "us.yahoo.com",
       "video-api.yql.yahoo.com",
+      "paypaymall.yahoo.co.jp",
       "edgecast-cf-prod.yahoo.net",
       "assets.video.yahoo.net",
       "s.yimg.com",
@@ -49,24 +67,35 @@
       "apk.center",
       "apk.support",
       "appmedia.jp",
+      "www.bestco.co.jp",
       "download.bitcomet.com",
       "bloomberg.co.jp",
       "edge.api.brightcove.com",
       "cdnjs.cloudflare.com",
+      "d1hc4zdhstp3wq.cloudfront.net",
       "cpubenchmark.net",
       "ctmp.space",
       "cybersport.ru",
+      "dell.to",
+      "dmc.nico",
       "www1.dropbay.net",
       "drop1.dropmefiles.com",
       "fs113.filecad.com",
       "www.fnn.jp",
+      "images.goodsmile.info",
       "cdn.gotraffic.net",
       "fs2.hxfile.co",
+      "image.itmedia.co.jp",
       "matrix.org",
       "api.mega.co.nz",
+      "www.ohki-tokyo.com",
       "passmark.com",
       "i.pximg.net",
+      "shop.r10s.jp",
+      "www.schueller.de",
+      "r5d4b7t7.stackpathcdn.com",
       "tlanyan.me",
+      "tnkss.co.jp",
       "fs7.uploadev.org",
       "userapi.com",
       "fs2.videospeed.xyz",
@@ -74,7 +103,8 @@
       "v2fly.org",
       "www.wwe.com",
       "axem1.youdbox.com"
-    ]
+    ],
+    "protocol": []
   },
   {
     "port": "0-65535",
